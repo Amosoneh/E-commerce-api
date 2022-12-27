@@ -65,7 +65,7 @@ class ProductAdmin(admin.ModelAdmin):
 
     class Media:
         css = {
-            'all': ['store/styles.css']
+            'all': ['store/styles2.css']
         }
 
 
